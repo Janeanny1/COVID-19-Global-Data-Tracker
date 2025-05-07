@@ -67,8 +67,8 @@ The notebook performs the following tasks:
 ## 📝 How to Run
 
 1. Clone or download this repo
-   🔑 GITHUB Link
-- https://github.com/Janeanny1/COVID-19-Global-Data-Tracker.git
+  -  🔑 GITHUB Link
+  - https://github.com/Janeanny1/COVID-19-Global-Data-Tracker.git
 2. Install dependencies:
    pip install pandas matplotlib seaborn plotly
 
