@@ -35,10 +35,10 @@ The notebook performs the following tasks:
 ## 📁 Project Structure
 
 📦 covid19-analysis/
--├── owid-covid-data.csv # Raw dataset
--├── COVID19_Data_Tracker.ipynb # Jupyter Notebook (main analysis)
--├── README.md # Project documentation
--└── outputs/ # Plots, download Jupyter Notebook file, screenshots (optional)
+- ├── owid-covid-data.csv # Raw dataset
+- ├── COVID19_Data_Tracker.ipynb # Jupyter Notebook (main analysis)
+- ├── README.md # Project documentation
+- └── outputs/ # Plots, download Jupyter Notebook file, screenshots (optional)
 
 
 ## 📌 Tools & Libraries
