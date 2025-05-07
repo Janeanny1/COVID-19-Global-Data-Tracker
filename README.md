@@ -18,7 +18,7 @@ The notebook performs the following tasks:
 
 # 🌍 COVID-19 Global Data Analysis
 
-This project explores and visualizes the global impact of COVID-19 using the [Our World in Data COVID-19 dataset](https://ourworldindata.org/coronavirus-source-data). The analysis focuses on trends in cases, deaths, vaccinations, and correlations between key health metrics across selected countries.
+This project explores and visualizes the global impact of COVID-19 using the [Our World in Data COVID-19 dataset](https://www.kaggle.com/datasets). The analysis focuses on trends in cases, deaths, vaccinations, and correlations between key health metrics across selected countries.
 
 ## 📊 Project Overview
 
@@ -71,7 +71,7 @@ The notebook performs the following tasks:
    pip install pandas matplotlib seaborn plotly
 
 📄 Data Source
-https://www.kaggle.com/datasets
+- https://www.kaggle.com/datasets
 
 
 💻Happy coding!
